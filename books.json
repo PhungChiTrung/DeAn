@@ -1,0 +1,266 @@
+[
+    {
+        "id": 1,
+        "title": "Poems",
+        "author": "William Butler Yeats",
+        "year": 1895,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 2,
+        "title": "The A.B.C. Murders",
+        "author": "Agatha Christie",
+        "year": 1936,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 3,
+        "title": "Charlotte's Web",
+        "author": "E. B. White",
+        "year": 1952,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 4,
+        "title": "The Souls of Black Folk",
+        "author": "W. E. B. Du Bois",
+        "year": 1903,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 5,
+        "title": "Finnegans Wake",
+        "author": "James Joyce",
+        "year": 1928,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 6,
+        "title": "The Elements of Style",
+        "author": "William Strunk, Jr.",
+        "year": 1920,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 7,
+        "title": "Poetics",
+        "author": "Aristotle",
+        "year": 1536,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 8,
+        "title": "कामसूत्र",
+        "author": "Vatsyāyana",
+        "year": 1883,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 9,
+        "title": "The BFG",
+        "author": "Roald Dahl",
+        "year": 1980,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 10,
+        "title": "The Norton Anthology of English Literature",
+        "author": "M. H. Abrams",
+        "year": 1962,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 11,
+        "title": "The Alchemist, 1612",
+        "author": "Ben Jonson",
+        "year": 1612,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 12,
+        "title": "Sparkling Cyanide",
+        "author": "Agatha Christie",
+        "year": 1945,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 13,
+        "title": "Crooked House",
+        "author": "Agatha Christie",
+        "year": 1949,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 14,
+        "title": "La Chute",
+        "author": "Albert Camus",
+        "year": 1917,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 15,
+        "title": "Rebecca",
+        "author": "Daphne du Maurier",
+        "year": 1938,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 17,
+        "title": "This Side of Paradise",
+        "author": "F. Scott Fitzgerald",
+        "year": 1920,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 18,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": 1988,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 19,
+        "title": "A Game of Thrones",
+        "author": "George R. R. Martin",
+        "year": 1996,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 20,
+        "title": "Heidi",
+        "author": "Johanna Spyri",
+        "year": 1885,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 21,
+        "title": "Charlie and the Great Glass Elevator",
+        "author": "Roald Dahl",
+        "year": 1972,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 22,
+        "title": "A Study of History",
+        "author": "Arnold J. Toynbee",
+        "year": 1900,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 23,
+        "title": "The Razor's Edge",
+        "author": "William Somerset Maugham",
+        "year": 1944,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 25,
+        "title": "James and the Giant Peach",
+        "author": "Roald Dahl",
+        "year": 1961,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 26,
+        "title": "Principles of Anatomy and Physiology",
+        "author": "Gerard J. Tortora",
+        "year": 1975,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 27,
+        "title": "Antony and Cleopatra",
+        "author": "William Shakespeare",
+        "year": 1734,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 28,
+        "title": "Οἰδίπους Τύραννος (Oidípous Týrannos)",
+        "author": "Sophocles",
+        "year": 1715,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 29,
+        "title": "After the Funeral",
+        "author": "Agatha Christie",
+        "year": 1953,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 30,
+        "title": "My Ántonia",
+        "author": "Willa Cather",
+        "year": 1918,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 31,
+        "title": "Charlie and the Chocolate Factory",
+        "author": "Roald Dahl",
+        "year": 1964,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 32,
+        "title": "Отцы и дети",
+        "author": "Ivan Sergeevich Turgenev",
+        "year": 1867,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 33,
+        "title": "James and the Giant Peach",
+        "author": "Roald Dahl",
+        "year": 1961,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 34,
+        "title": "Principles of Anatomy and Physiology",
+        "author": "Gerard J. Tortora",
+        "year": 1975,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 35,
+        "title": "Antony and Cleopatra",
+        "author": "William Shakespeare",
+        "year": 1734,
+        "genre": "General",
+        "available": true
+    }
+]
