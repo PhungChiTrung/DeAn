@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "year": 2003,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 2,
+        "title": "The Legend of Sleepy Hollow",
+        "author": "Washington Irving",
+        "year": 1820,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 3,
+        "title": "The Richest Man in Babylon",
+        "author": "George S. Clason",
+        "year": 1926,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 4,
+        "title": "A Midsummer Night's Dream",
+        "author": "William Shakespeare",
+        "year": 1600,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 5,
+        "title": "Study Guide",
+        "author": "Supersummary",
+        "year": 2019,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 6,
+        "title": "Where the Wild Things Are",
+        "author": "Maurice Sendak",
+        "year": 1600,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 7,
+        "title": "The Constitution of the United States and related documents",
+        "author": "United States",
+        "year": 1787,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 8,
+        "title": "Bible",
+        "author": "Bible",
+        "year": 1200,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 9,
+        "title": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "year": 1900,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 10,
+        "title": "Artemis Fowl and the Eternity Code",
+        "author": "Eoin Colfer",
+        "year": 2003,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 11,
+        "title": "Artemis Fowl",
+        "author": "Eoin Colfer",
+        "year": 1999,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 12,
+        "title": "Economics of Money, Banking, and Financial Markets Conflicts of Interest Edition plus MyEconLab",
+        "author": "Frederic S. Mishkin",
+        "year": 1986,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 13,
+        "title": "Tax administration",
+        "author": "United States. General Accounting Office",
+        "year": 1986,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 14,
+        "title": "Digital Fortress",
+        "author": "Dan Brown",
+        "year": 1998,
+        "genre": "General",
+        "available": true
+    },
+    {
+        "id": 15,
+        "title": "Principles of marketing",
+        "author": "Philip Kotler",
+        "year": 1980,
+        "genre": "General",
+        "available": true
+    }
+]

@@ -1,15 +1,38 @@
 import json
 import os
 import requests
+import sys
+import shutil
 from tkinter import messagebox
 from Du_lieu import User, Book
 
+def get_read_path(filename):
+    """Đường dẫn tới file đã được PyInstaller đóng gói (chỉ để copy lần đầu)"""
+    try:
+        base_path = sys._MEIPASS
+    except AttributeError:
+        base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+    return os.path.join(base_path, filename)
+
+def get_data_path(filename):
+    """Đường dẫn tới file mà chương trình sẽ thực sự đọc/ghi"""
+    if getattr(sys, 'frozen', False):
+        return os.path.join(os.path.dirname(sys.executable), filename)
+    else:
+        return os.path.abspath(os.path.join(os.path.dirname(__file__), "..", filename))
+
+def ensure_data_file_exists(filename):
+    """Copy file gốc từ bản đóng gói ra thư mục ghi nếu chưa tồn tại"""
+    data_path = get_data_path(filename)
+    if not os.path.exists(data_path):
+        shutil.copy(get_read_path(filename), data_path)
+    return data_path
 class LibraryManager:
     def __init__(self):
         self.books = []
         self.users = []
-        self.booksFile = "QuanLyThuVien/books.json"
-        self.usersFile = "QuanLyThuVien/users.json"
+        self.usersFile = ensure_data_file_exists("users.json")
+        self.booksFile = ensure_data_file_exists("books.json")
         self.loadData()
     
     def loadData(self):
